@@ -1,0 +1,13 @@
+F:\HSR\04_Sem\01_ParProg\03_Übungen\ParProg_VS\Testat02\01_DotNet\Peterson\Peterson\bin\Release\netcoreapp3.1\Peterson.exe
+F:\HSR\04_Sem\01_ParProg\03_Übungen\ParProg_VS\Testat02\01_DotNet\Peterson\Peterson\bin\Release\netcoreapp3.1\Peterson.deps.json
+F:\HSR\04_Sem\01_ParProg\03_Übungen\ParProg_VS\Testat02\01_DotNet\Peterson\Peterson\bin\Release\netcoreapp3.1\Peterson.runtimeconfig.json
+F:\HSR\04_Sem\01_ParProg\03_Übungen\ParProg_VS\Testat02\01_DotNet\Peterson\Peterson\bin\Release\netcoreapp3.1\Peterson.runtimeconfig.dev.json
+F:\HSR\04_Sem\01_ParProg\03_Übungen\ParProg_VS\Testat02\01_DotNet\Peterson\Peterson\bin\Release\netcoreapp3.1\Peterson.dll
+F:\HSR\04_Sem\01_ParProg\03_Übungen\ParProg_VS\Testat02\01_DotNet\Peterson\Peterson\bin\Release\netcoreapp3.1\Peterson.pdb
+F:\HSR\04_Sem\01_ParProg\03_Übungen\ParProg_VS\Testat02\01_DotNet\Peterson\Peterson\obj\Release\netcoreapp3.1\Peterson.csprojAssemblyReference.cache
+F:\HSR\04_Sem\01_ParProg\03_Übungen\ParProg_VS\Testat02\01_DotNet\Peterson\Peterson\obj\Release\netcoreapp3.1\Peterson.csproj.CoreCompileInputs.cache
+F:\HSR\04_Sem\01_ParProg\03_Übungen\ParProg_VS\Testat02\01_DotNet\Peterson\Peterson\obj\Release\netcoreapp3.1\Peterson.AssemblyInfoInputs.cache
+F:\HSR\04_Sem\01_ParProg\03_Übungen\ParProg_VS\Testat02\01_DotNet\Peterson\Peterson\obj\Release\netcoreapp3.1\Peterson.AssemblyInfo.cs
+F:\HSR\04_Sem\01_ParProg\03_Übungen\ParProg_VS\Testat02\01_DotNet\Peterson\Peterson\obj\Release\netcoreapp3.1\Peterson.dll
+F:\HSR\04_Sem\01_ParProg\03_Übungen\ParProg_VS\Testat02\01_DotNet\Peterson\Peterson\obj\Release\netcoreapp3.1\Peterson.pdb
+F:\HSR\04_Sem\01_ParProg\03_Übungen\ParProg_VS\Testat02\01_DotNet\Peterson\Peterson\obj\Release\netcoreapp3.1\Peterson.genruntimeconfig.cache

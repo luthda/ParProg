@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BankAccount/1.0.0": {
+        "dependencies": {
+          "System.Threading.Atomics": "1.0.141"
+        },
+        "runtime": {
+          "BankAccount.dll": {}
+        }
+      },
+      "System.Threading.Atomics/1.0.141": {
+        "runtime": {
+          "lib/net45/System.Threading.Atomics.dll": {
+            "assemblyVersion": "1.0.141.0",
+            "fileVersion": "1.0.141.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BankAccount/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Threading.Atomics/1.0.141": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DnCLbyns4iEjHJHXJeVyiGPxYNVPP+zWD+Aexj8PzaN0UU0GWkxg4hwXnA2nzPhVjLPDnBpqBn9JrpwDdS+QMw==",
+      "path": "system.threading.atomics/1.0.141",
+      "hashPath": "system.threading.atomics.1.0.141.nupkg.sha512"
+    }
+  }
+}

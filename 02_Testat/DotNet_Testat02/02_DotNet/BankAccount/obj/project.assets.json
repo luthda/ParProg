@@ -1,0 +1,130 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "System.Threading.Atomics/1.0.141": {
+        "type": "package",
+        "compile": {
+          "lib/net45/System.Threading.Atomics.dll": {}
+        },
+        "runtime": {
+          "lib/net45/System.Threading.Atomics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "System.Threading.Atomics/1.0.141": {
+      "sha512": "DnCLbyns4iEjHJHXJeVyiGPxYNVPP+zWD+Aexj8PzaN0UU0GWkxg4hwXnA2nzPhVjLPDnBpqBn9JrpwDdS+QMw==",
+      "type": "package",
+      "path": "system.threading.atomics/1.0.141",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/ARM/System.Threading.Atomics.XML",
+        "lib/net40/ARM/System.Threading.Atomics.dll",
+        "lib/net40/System.Threading.Atomics.XML",
+        "lib/net40/System.Threading.Atomics.dll",
+        "lib/net45/ARM/System.Threading.Atomics.XML",
+        "lib/net45/ARM/System.Threading.Atomics.dll",
+        "lib/net45/System.Threading.Atomics.XML",
+        "lib/net45/System.Threading.Atomics.dll",
+        "lib/netcore451/ARM/System.Threading.Atomics.XML",
+        "lib/netcore451/ARM/System.Threading.Atomics.dll",
+        "lib/netcore451/x64/System.Threading.Atomics.XML",
+        "lib/netcore451/x64/System.Threading.Atomics.dll",
+        "lib/netcore451/x86/System.Threading.Atomics.XML",
+        "lib/netcore451/x86/System.Threading.Atomics.dll",
+        "lib/portable-net45+wp8+win8/System.Threading.Atomics.XML",
+        "lib/portable-net45+wp8+win8/System.Threading.Atomics.dll",
+        "system.threading.atomics.1.0.141.nupkg.sha512",
+        "system.threading.atomics.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "System.Threading.Atomics >= 1.0.141"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\david\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\HSR\\04_Sem\\01_ParProg\\04_Testat\\02_Testat\\DotNet_Testat02\\02_DotNet\\BankAccount\\BankAccount.csproj",
+      "projectName": "BankAccount",
+      "projectPath": "F:\\HSR\\04_Sem\\01_ParProg\\04_Testat\\02_Testat\\DotNet_Testat02\\02_DotNet\\BankAccount\\BankAccount.csproj",
+      "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
+      "outputPath": "F:\\HSR\\04_Sem\\01_ParProg\\04_Testat\\02_Testat\\DotNet_Testat02\\02_DotNet\\BankAccount\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "System.Threading.Atomics": {
+            "target": "Package",
+            "version": "[1.0.141, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Threading.Atomics 1.0.141' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "System.Threading.Atomics",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

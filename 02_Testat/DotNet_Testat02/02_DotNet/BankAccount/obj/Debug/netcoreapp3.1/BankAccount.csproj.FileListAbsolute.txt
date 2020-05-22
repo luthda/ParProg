@@ -1,0 +1,15 @@
+F:\HSR\04_Sem\01_ParProg\03_Übungen\ParProg_VS\Testat02\02_DotNet\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.exe
+F:\HSR\04_Sem\01_ParProg\03_Übungen\ParProg_VS\Testat02\02_DotNet\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.deps.json
+F:\HSR\04_Sem\01_ParProg\03_Übungen\ParProg_VS\Testat02\02_DotNet\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.json
+F:\HSR\04_Sem\01_ParProg\03_Übungen\ParProg_VS\Testat02\02_DotNet\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.dev.json
+F:\HSR\04_Sem\01_ParProg\03_Übungen\ParProg_VS\Testat02\02_DotNet\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.dll
+F:\HSR\04_Sem\01_ParProg\03_Übungen\ParProg_VS\Testat02\02_DotNet\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.pdb
+F:\HSR\04_Sem\01_ParProg\03_Übungen\ParProg_VS\Testat02\02_DotNet\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csprojAssemblyReference.cache
+F:\HSR\04_Sem\01_ParProg\03_Übungen\ParProg_VS\Testat02\02_DotNet\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfoInputs.cache
+F:\HSR\04_Sem\01_ParProg\03_Übungen\ParProg_VS\Testat02\02_DotNet\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfo.cs
+F:\HSR\04_Sem\01_ParProg\03_Übungen\ParProg_VS\Testat02\02_DotNet\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.dll
+F:\HSR\04_Sem\01_ParProg\03_Übungen\ParProg_VS\Testat02\02_DotNet\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.pdb
+F:\HSR\04_Sem\01_ParProg\03_Übungen\ParProg_VS\Testat02\02_DotNet\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.genruntimeconfig.cache
+F:\HSR\04_Sem\01_ParProg\03_Übungen\ParProg_VS\Testat02\02_DotNet\BankAccount\bin\Debug\netcoreapp3.1\System.Threading.Atomics.dll
+F:\HSR\04_Sem\01_ParProg\03_Übungen\ParProg_VS\Testat02\02_DotNet\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csproj.CoreCompileInputs.cache
+F:\HSR\04_Sem\01_ParProg\03_Übungen\ParProg_VS\Testat02\02_DotNet\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csproj.CopyComplete
